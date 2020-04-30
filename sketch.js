@@ -31,5 +31,7 @@ function draw() {
   box8.display();  
   box9.display();
   box10.display();
+  triangle(31,95,5,165,55,165);
+  triangle(351,95,325,165,375,165)
   drawSprites();
 }
